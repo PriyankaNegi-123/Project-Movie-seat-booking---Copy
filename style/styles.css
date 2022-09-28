@@ -56,11 +56,11 @@ li{
 }
 
 .seat.selected{
-    background-color: var(--selected);
+    background-color: greenyellow;
 }
 
 .seat.occupied{
-    background-color: var(--white);
+    background-color: red;
 }
 
 .showcase-container{
